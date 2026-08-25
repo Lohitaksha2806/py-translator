@@ -38,15 +38,11 @@ This project provides a lightweight graphical interface to translate text betwee
    git clone [https://github.com/](https://github.com/)<your-username>/<repo-name>.git
    cd <repo-name>
 
----
-
-## How to Run
-
-1. **Install the required library:**
+2. **Install the required library:**
    ```bash
    pip install googletrans==4.0.0-rc1
 
-2. **Run the application:**
+3. **Run the application:**
    ```bash
    python main.py
 
