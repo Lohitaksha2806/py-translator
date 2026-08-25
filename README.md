@@ -52,7 +52,7 @@ This project provides a lightweight graphical interface to translate text betwee
 
 ---
 
-**How It Works**
+## How It Works
 
 1. Enter the text you want to translate into the Text to translate area.
 2. (Optional) Provide the source language code/name in the Translate from field.
@@ -62,7 +62,7 @@ This project provides a lightweight graphical interface to translate text betwee
 
 ---
 
-**Project Structure**
+## Project Structure
 
 ├── main.py          # Application source code
 ├── README.md        # Project documentation
