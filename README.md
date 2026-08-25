@@ -64,6 +64,8 @@ This project provides a lightweight graphical interface to translate text betwee
 
 ## Project Structure
 
+```text
 ├── main.py          # Application source code
 ├── README.md        # Project documentation
 └── requirements.txt # Project dependencies
+```
